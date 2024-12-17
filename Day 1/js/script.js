@@ -9,13 +9,13 @@
 
 // Variables
 
-var VAT = 20;
-var calculatedVAT = (1 + VAT * 1/100);
-var netPriceOfShoes = 100;
-var netPriceOfTV = 959;
+// var VAT = 20;
+// var calculatedVAT = (1 + VAT * 1/100);
+// var netPriceOfShoes = 100;
+// var netPriceOfTV = 959;
 
-var grossPriceOfShoes = netPriceOfShoes * calculatedVAT;
-var grossPriceOfTV = netPriceOfTV * calculatedVAT;
+// var grossPriceOfShoes = netPriceOfShoes * calculatedVAT;
+// var grossPriceOfTV = netPriceOfTV * calculatedVAT;
 
 // alert(grossPriceOfShoes);
 // alert(grossPriceOfTV);
