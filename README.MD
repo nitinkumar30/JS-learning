@@ -13,6 +13,7 @@
 3. [Day 3](Day3/js/script.js)
 4. [Day 4](Day4/js/script.js)
 5. [Day 5](Day5/js/script.js)
+5. [Day 6](Day6/js/script.js)
 
 
 # Author
