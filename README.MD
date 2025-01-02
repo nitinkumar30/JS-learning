@@ -2,9 +2,11 @@
 
 > This repo is all about my JS learning journey  
 
+
 # File structure
 
 > It'll contain everyday index.html & script.js files majorly. Some resources files might also be there.  
+
 
 # Days learned
 
@@ -16,6 +18,8 @@
 6. [Day 6](Day6/js/script.js)
 7. [Day 7](Day7/js/script.js)
 8. [Day 8](Day8/js/script.js)
+9. [Day 9](Day9/js/script.js)
+10. [Day 10](Day10/js/script.js)
 
 
 # Author
