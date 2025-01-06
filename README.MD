@@ -20,6 +20,8 @@
 8. [Day 8](Day8/js/script.js)
 9. [Day 9](Day9/js/script.js)
 10. [Day 10](Day10/js/script.js)
+11. [Day 11](Day11/js/script.js)
+12. [Day 12](Day12/js/script.js)
 
 
 # Author
